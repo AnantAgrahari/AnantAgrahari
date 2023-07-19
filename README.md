@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anant Agrahari</h1>
 <h3 align="center">A passionate Backend Developer and aspiring Frontend Developer.Exploring the fields of System Design and Networking.</h3>
-<img align="right" alt="Coding" width="450" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47ydf5ebv6jb57osrmcust1ng5td1khf3hwqftg5ye&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47ydf5ebv6jb57osrmcust1ng5td1khf3hwqftg5ye&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infinite&label=Profile%20views&color=0e75b6&style=flat" alt="infinite" /> </p>
 
