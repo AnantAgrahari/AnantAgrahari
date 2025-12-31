@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anant Agrahari</h1>
 <h3 align="center">Aspiring Data Analyst | Power BI • SQL • Python • MS Excel • Snowflake</h3>
 
-<img align="right" alt="Data Analytics" width="380" 
-src="https://img.freepik.com/free-vector/data-analysis-concept-illustration_114360-8056.jpg">
+<img align="right" alt="Data Analytics" width="360"
+src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/analytics.svg">
+
 
 
 <p align="left">
