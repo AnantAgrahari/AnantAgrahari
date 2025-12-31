@@ -43,8 +43,8 @@ Identify customer churn drivers and revenue leakage to support data-driven reten
 
 **What I Did:**
 - Cleaned and transformed raw customer and sales data using **Python (Pandas)** to improve data accuracy and consistency.
-- Designed a **star schema data model** and loaded data into **Snowflake**  in terms of Fact and Dimension tables, improving query performance and report responsiveness.
-- Built interactive **Power BI dashboards** using **DAX measures** to analyze customer behavior, churn trends, and revenue contribution.
+- Loaded data into **Snowflake** in terms of Fact and Dimension tables, improving query performance and report responsiveness.
+- Created a **Star Schema Data Model** and built interactive **Power BI dashboards** using **DAX measures** to analyze customer behavior, churn trends, and revenue contribution.
 - Created KPI-driven visuals to track **churn rate, repeat customers, revenue loss, and customer lifetime value**.
 
 **Impact:**
