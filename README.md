@@ -17,7 +17,7 @@
 - 🧠 Strong understanding of **data modeling, DAX, and analytical problem-solving**
 - 🧠 Exploring the in and out of **Microsoft Fabric**
 - 🧠 Skilled in **Statistical concepts** and testing methods 
-- 💼 Actively preparing for **Data Analyst / BI Analyst roles**
+- 💼 Actively preparing for **Data Analyst / Power BI Developer roles**
 
 ---
 
