@@ -53,7 +53,7 @@ Identify customer churn drivers and revenue leakage to support data-driven reten
 - Improved business decision-making efficiency by **20%** through intuitive and well-structured dashboards.
 
 🔗 **Project Repository:**  
-https://github.com/infinite/customer-retention-powerbi
+https://github.com/AnantAgrahari/PowerBI-Customer-Retention
 
 
 ---
