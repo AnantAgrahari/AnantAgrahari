@@ -35,7 +35,7 @@
 - 📊 **Customer Retention & Revenue Optimization Dashboard**
   - Power BI dashboard analyzing churn patterns and revenue loss
   - Implemented star schema, DAX measures, and KPI-driven visuals
-  - 🔗 [View Project Repository](https://github.com/infinite/customer-retention-powerbi)
+  - 🔗 [View Project Repository](https://github.com/AnantAgrahari/PowerBI-Customer-Retention)
 
 ---
 
