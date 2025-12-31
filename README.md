@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anant Agrahari</h1>
-<h3 align="center">Aspiring Data Analyst | Power BI • SQL • Python</h3>
+<h3 align="center">Aspiring Data Analyst | Power BI • SQL • Python • MS Excel • Snowflake</h3>
 
 <img align="right" alt="Data Analysis" width="380" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
