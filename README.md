@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anant Agrahari</h1>
-<h3 align="center">Aspiring Data Analyst | Power BI • SQL • Python • MS Excel • Snowflake</h3>
+<h3 align="center"> Data Analyst | Power BI • SQL • Python • MS Excel • Snowflake</h3>
 
 
 
@@ -11,7 +11,8 @@
 ---
 
 ## 📊 About Me
-- 🎯 Aspiring **Data Analyst** with hands-on experience in **Power BI, SQL, and Python**
+- 🎯 **Data Analyst** with hands-on experience in **Power BI, SQL, and Python**
+- 💼 Current working as **Business Analyst** at DistrictD.
 - 📈 Skilled in transforming raw data into **actionable business insights**
 - 🧠 Strong understanding of **data modeling, DAX, and analytical problem-solving**
 - 🧠 Exploring the in and out of **Microsoft Fabric**
