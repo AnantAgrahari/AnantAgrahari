@@ -13,6 +13,7 @@
 - 🎯 Aspiring **Data Analyst** with hands-on experience in **Power BI, SQL, and Python**
 - 📈 Skilled in transforming raw data into **actionable business insights**
 - 🧠 Strong understanding of **data modeling, DAX, and analytical problem-solving**
+- 🧠 Exploring the in and out of **Microsoft Fabric**
 - 💼 Actively preparing for **Data Analyst / BI Analyst roles**
 
 ---
@@ -39,10 +40,12 @@
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Optimizing
 - Advanced DAX & performance optimization
 - Business case studies for analytics interviews
 - SQL window functions & complex joins
+- Exploring Microsoft Fabric
+- Data Warehousing Concepts
 
 ---
 
