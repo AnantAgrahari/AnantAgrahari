@@ -78,12 +78,5 @@ https://github.com/AnantAgrahari/PowerBI-Customer-Retention
 
 ---
 
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infinite&show_icons=true&locale=en&layout=compact" />
-</p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=infinite&show_icons=true&locale=en" />
-</p>
 
