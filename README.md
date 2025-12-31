@@ -35,11 +35,26 @@
 
 ---
 
-## 📌 Featured Projects
-- 📊 **Customer Retention & Revenue Optimization Dashboard**
-  - Power BI dashboard analyzing churn patterns and revenue loss
-  - Implemented star schema, DAX measures, and KPI-driven visuals
-  - 🔗 [View Project Repository](https://github.com/AnantAgrahari/PowerBI-Customer-Retention)
+## 📌 Featured Project
+
+### 📊 Customer Retention & Revenue Optimization Dashboard (Power BI)
+**Objective:**  
+Identify customer churn drivers and revenue leakage to support data-driven retention strategies.
+
+**What I Did:**
+- Cleaned and transformed raw customer and sales data using **Python (Pandas)** to improve data accuracy and consistency.
+- Designed a **star schema data model** and loaded data into **Snowflake**  in terms of Fact and Dimension tables, improving query performance and report responsiveness.
+- Built interactive **Power BI dashboards** using **DAX measures** to analyze customer behavior, churn trends, and revenue contribution.
+- Created KPI-driven visuals to track **churn rate, repeat customers, revenue loss, and customer lifetime value**.
+
+**Impact:**
+- Identified high-risk churn segments contributing to approximately **30% of total revenue loss**.
+- Highlighted repeat customers generating over **60% of overall revenue**, supporting targeted retention strategies.
+- Improved business decision-making efficiency by **20%** through intuitive and well-structured dashboards.
+
+🔗 **Project Repository:**  
+https://github.com/infinite/customer-retention-powerbi
+
 
 ---
 
