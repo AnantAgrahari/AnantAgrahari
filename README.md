@@ -16,7 +16,8 @@
 - 📈 Skilled in transforming raw data into **actionable business insights**
 - 🧠 Strong understanding of **data modeling, DAX, and analytical problem-solving**
 - 🧠 Exploring the in and out of **Microsoft Fabric**
-- 🧠 Skilled in **Statistical concepts** and testing methods 
+- 🧠 Skilled in **Statistical concepts** and testing methods
+- 🎯 Hands on experience in Automation using Python Scripts
 - 💼 Actively preparing for **Data Analyst / Power BI Developer roles**
 
 ---
